@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lucianimuelleri00mlgoog_0008.png"; bbox 0 0 3284 5136; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 903 4358 1590 4381">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 903 4358 1590 4381">
+     <span class='ocr_line' id='line_1_1' title="bbox 903 4358 1590 4381; baseline 0.001 -8"><span class='ocrx_word' id='word_1_1' title='bbox 903 4360 953 4373; x_wconf 61' lang='lat' dir='ltr'>saux</span> <span class='ocrx_word' id='word_1_2' title='bbox 971 4360 1136 4379; x_wconf 58' lang='lat' dir='ltr'>mev</span> <span class='ocrx_word' id='word_1_3' title='bbox 1144 4358 1381 4381; x_wconf 56' lang='lat' dir='ltr'>muwl</span> <span class='ocrx_word' id='word_1_4' title='bbox 1392 4358 1590 4376; x_wconf 60' lang='grc' dir='ltr'>ΜΛΜΨἉΑΜᾺΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 348 4360 1546 4474">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 348 4360 1546 4494">
+     <span class='ocr_line' id='line_1_2' title="bbox 348 4360 1546 4474; baseline 0.001 -16"><span class='ocrx_word' id='word_1_5' title='bbox 348 4364 353 4374; x_wconf 25' lang='grc' dir='ltr'>ὶ</span> <span class='ocrx_word' id='word_1_6' title='bbox 382 4361 768 4474; x_wconf 50' lang='lat' dir='ltr'>ExcerpuhneeexAJus</span> <span class='ocrx_word' id='word_1_7' title='bbox 780 4360 996 4458; x_wconf 48' lang='lat' dir='ltr'>uifihtlnstit</span> <span class='ocrx_word' id='word_1_8' title='bbox 1015 4403 1095 4458; x_wconf 66' lang='lat' dir='ltr'><strong>vahl.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1115 4406 1192 4460; x_wconf 65' lang='lat' dir='ltr'><strong>Rutu.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1210 4405 1333 4461; x_wconf 71' lang='lat' dir='ltr'>Ianuarii</span> <span class='ocrx_word' id='word_1_11' title='bbox 1352 4420 1389 4460; x_wconf 81' lang='lat' dir='ltr'>m.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1408 4422 1434 4459; x_wconf 78' lang='grc' dir='ltr'>ι.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1454 4406 1546 4460; x_wconf 70' lang='lat' dir='ltr'><strong>huius.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 607 4554 1339 4628">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 607 4554 1339 4628">
+     <span class='ocr_line' id='line_1_3' title="bbox 607 4554 1339 4628; baseline 0.005 -19"><span class='ocrx_word' id='word_1_14' title='bbox 607 4554 696 4627; x_wconf 71' lang='lat' dir='ltr'>Typls</span> <span class='ocrx_word' id='word_1_15' title='bbox 713 4559 852 4626; x_wconf 77' lang='lat' dir='ltr'>exprmlt</span> <span class='ocrx_word' id='word_1_16' title='bbox 871 4557 1016 4628; x_wconf 74' lang='lat' dir='ltr'>Petropoll</span> <span class='ocrx_word' id='word_1_17' title='bbox 1035 4555 1067 4614; x_wconf 77' lang='lat' dir='ltr'>V.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1088 4555 1339 4614; x_wconf 65' lang='lat' dir='ltr'>Bauzanum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1646 5136">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1646 5136">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1646 5136; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1646 5136; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
